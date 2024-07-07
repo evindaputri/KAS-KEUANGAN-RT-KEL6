@@ -1,7 +1,7 @@
 APLIKASI KAS RT
 
 | Nama Anggota Kelompok | NIM | Mata Kuliah |
-| Evinda Putri C.A | 312210197 || Muhamda Irfan | 31221 ||
+| Evinda Putri C.A | 312210197 || Muhamda Irfan | 312210273 ||
 | Pemrograman Mobile 2 |
 Penelitian ini menganalisis potensi dan tantangan dalam pengembangan aplikasi kas untuk RT07 RW04 Ciantra. Melalui metode gabungan studi literatur, wawancara, dan analisis kebutuhan, penelitian ini mengidentifikasi kebutuhan pengguna, fungsi utama yang diinginkan, manfaat yang diharapkan, serta tantangan yang dihadapi. Tantangan utama meliputi keterbatasan teknologi dan keamanan data, sementara manfaatnya termasuk pemudahan administrasi dan transparansi keuangan. Rekomendasi diberikan untuk meningkatkan keterlibatan pengguna dan memperkuat keamanan data dalam pengembangan aplikasi ini.
 
